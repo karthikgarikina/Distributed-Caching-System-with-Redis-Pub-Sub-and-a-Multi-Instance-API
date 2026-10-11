@@ -164,6 +164,12 @@ docker compose down -v
 
 ---
 
+## Video Demo
+
+https://youtu.be/s-9-F1nM2zE
+
+---
+
 ## 6. Comprehensive Testing & Verification Guide
 
 Follow these step-by-step verification procedures to test all 13 core requirements.
